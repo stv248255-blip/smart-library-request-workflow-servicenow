@@ -1,1 +1,2 @@
-# smart-library-request-workflow-servicenow
+# GROUP PROJECT
+## Smart Library Request Workflow ServiceNow
